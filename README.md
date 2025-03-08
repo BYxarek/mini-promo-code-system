@@ -11,4 +11,4 @@ MySQL-8.0+
 
 
 # Автор / доработал
-Maroz Studios / BYxarel
+Maroz Studios / BYxarek
